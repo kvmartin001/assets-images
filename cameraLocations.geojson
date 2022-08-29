@@ -1,0 +1,670 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 1,
+        "station": "Dubai Marina View 1",
+        "easting_DL": 479576,
+        "northing_D": 2774129,
+        "height": 172.93,
+        "lat": 25.072757,
+        "long": 55.1308964,
+        "details": "Shams-1 building roof",
+        "remarks": "Upgrade",
+        "ID": "DUBMAR1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.1308964, 25.072757 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 2,
+        "station": "Dubai Marina View 2",
+        "easting_DL": 479576,
+        "northing_D": 2774129,
+        "height": 172.93,
+        "lat": 25.072757,
+        "long": 55.1308964,
+        "details": "Shams-1 building roof",
+        "remarks": "New Installation",
+        "ID": "DUBMAR2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.1308964, 25.072757 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 3,
+        "station": "Dubai Marina View 3",
+        "easting_DL": 479576,
+        "northing_D": 2774129,
+        "height": 172.93,
+        "lat": 25.072757,
+        "long": 55.1308964,
+        "details": "Shams-1 building roof",
+        "remarks": "New Installation",
+        "ID": "DUBMAR3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.1308964, 25.072757 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 4,
+        "station": "Madinat Jumeirah",
+        "easting_DL": 485060,
+        "northing_D": 2781666,
+        "height": 129.91,
+        "lat": 25.1408601,
+        "long": 55.1851701,
+        "details": "17th floor of Burj Al Arab",
+        "remarks": "Upgraded",
+        "ID": "BURJS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.1851701, 25.1408601 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 5,
+        "station": "Umm Sequim II View 1",
+        "easting_DL": 485118,
+        "northing_D": 2781741,
+        "height": 129.87,
+        "lat": 25.1415377,
+        "long": 55.1857445,
+        "details": "17th floor of Burj Al Arab",
+        "remarks": "Upgraded",
+        "ID": "BURJN1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.1857445, 25.1415377 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 6,
+        "station": "Umm Sequim II View 2",
+        "easting_DL": 485118,
+        "northing_D": 2781741,
+        "height": 129.87,
+        "lat": 25.1415377,
+        "long": 55.1857445,
+        "details": "17th floor of Burj Al Arab",
+        "remarks": "Upgraded",
+        "ID": "BURJN2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.1857445, 25.1415377 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 7,
+        "station": "Umm Sequim I View 1",
+        "easting_DL": 486462,
+        "northing_D": 2783063,
+        "height": 17.11,
+        "lat": 25.1534844,
+        "long": 55.1990603,
+        "details": "Pizarro Restaurant roof",
+        "remarks": "New Installation",
+        "ID": "UMM1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.1990603, 25.1534844 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 8,
+        "station": "Umm Sequim I View 2",
+        "easting_DL": 487252,
+        "northing_D": 2783880,
+        "height": 30.82,
+        "lat": 25.1608666,
+        "long": 55.206888,
+        "details": "Etisalat Tower # 2247",
+        "remarks": "Upgraded",
+        "ID": "UMM2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.206888, 25.1608666 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 9,
+        "station": "Umm Sequim I View 3",
+        "easting_DL": 487252,
+        "northing_D": 2783880,
+        "height": 30.82,
+        "lat": 25.1608666,
+        "long": 55.206888,
+        "details": "Etisalat Tower # 2247",
+        "remarks": "Upgraded",
+        "ID": "UMM3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.206888, 25.1608666 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 10,
+        "station": "Umm Sequim I View 4",
+        "easting_DL": 487252,
+        "northing_D": 2783880,
+        "height": 30.82,
+        "lat": 25.1608666,
+        "long": 55.206888,
+        "details": "Etisalat Tower # 2247",
+        "remarks": "Upgraded",
+        "ID": "UMM4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.206888, 25.1608666 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 12,
+        "station": "Umm Sequim I View 6",
+        "easting_DL": 487862,
+        "northing_D": 2785144,
+        "height": 14.3,
+        "lat": 25.1722821,
+        "long": 55.2129273,
+        "details": "DM Site office",
+        "remarks": "New Installation",
+        "ID": "UMM6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2129273, 25.1722821 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 13,
+        "station": "Jumeirah III View 1",
+        "easting_DL": 488339,
+        "northing_D": 2785450,
+        "height": 41.53,
+        "lat": 25.1750482,
+        "long": 55.2176564,
+        "details": "Etisalat Tower # 4123",
+        "remarks": "New Installation",
+        "ID": "JUM31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2176564, 25.1750482 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 14,
+        "station": "Jumeirah III View 2",
+        "easting_DL": 488339,
+        "northing_D": 2785449,
+        "height": 41.53,
+        "lat": 25.1750482,
+        "long": 55.2176564,
+        "details": "Etisalat Tower # 4123",
+        "remarks": "New Installation",
+        "ID": "JUM32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2176564, 25.1750482 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 15,
+        "station": "Jumeirah III View 3",
+        "easting_DL": 488928,
+        "northing_D": 2786301,
+        "height": 23.44,
+        "lat": 25.1827348,
+        "long": 55.2234924,
+        "details": "RODA Resort",
+        "remarks": "New Installation",
+        "ID": "JUM33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2234924, 25.1827348 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 16,
+        "station": "Jumeirah III View 4",
+        "easting_DL": 488928,
+        "northing_D": 2786301,
+        "height": 23.3,
+        "lat": 25.1827348,
+        "long": 55.2234924,
+        "details": "RODA Resort",
+        "remarks": "New Installation",
+        "ID": "JUM34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2234924, 25.1827348 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 17,
+        "station": "Jumeirah III View 5",
+        "easting_DL": 488928,
+        "northing_D": 2786300,
+        "height": 23.44,
+        "lat": 25.1827348,
+        "long": 55.2234924,
+        "details": "RODA Resort",
+        "remarks": "New Installation",
+        "ID": "JUM35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2234924, 25.1827348 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 18,
+        "station": "Jumeirah III View 6",
+        "easting_DL": 489769,
+        "northing_D": 2787411,
+        "height": 35.94,
+        "lat": 25.192761,
+        "long": 55.2318273,
+        "details": "Etisalat Tower # 2338",
+        "remarks": "New Installation",
+        "ID": "JUM36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2318273, 25.192761 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 19,
+        "station": "Jumeirah III View 7",
+        "easting_DL": 489769,
+        "northing_D": 2787409,
+        "height": 35.94,
+        "lat": 25.192761,
+        "long": 55.2318273,
+        "details": "Etisalat Tower # 2338",
+        "remarks": "New Installation",
+        "ID": "JUM37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2318273, 25.192761 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 20,
+        "station": "Jumeirah II View 1",
+        "easting_DL": 490956,
+        "northing_D": 2789296,
+        "height": 40.06,
+        "lat": 25.209785,
+        "long": 55.2435915,
+        "details": "Etisalat Tower # 4138",
+        "remarks": "New Installation",
+        "ID": "JUM2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2435915, 25.209785 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 21,
+        "station": "Jumeirah I View 1",
+        "easting_DL": 490956,
+        "northing_D": 2789299,
+        "height": 40.06,
+        "lat": 25.209812,
+        "long": 55.2435915,
+        "details": "Etisalat Tower # 4138",
+        "remarks": "Upgraded",
+        "ID": "JUM1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2435915, 25.209812 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 22,
+        "station": "Jumeirah I View 2",
+        "easting_DL": 491095,
+        "northing_D": 2789619,
+        "height": 15.09,
+        "lat": 25.2127016,
+        "long": 55.2449687,
+        "details": "12 m tower",
+        "remarks": "New Installation",
+        "ID": "JUM1S"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2449687, 25.2127016 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 23,
+        "station": "Jumeirah I View 3",
+        "easting_DL": 492016,
+        "northing_D": 2790830,
+        "height": 14.313,
+        "lat": 25.2236387,
+        "long": 55.2541007,
+        "details": "Meraas Building",
+        "remarks": "New Installation",
+        "ID": "JUM1N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2541007, 25.2236387 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 24,
+        "station": "Jumeirah Open Beach View 1",
+        "easting_DL": 492576,
+        "northing_D": 2791932,
+        "height": 0,
+        "lat": 25.2335896,
+        "long": 55.2596521,
+        "details": "Meraas Building",
+        "remarks": "Relocation",
+        "ID": "JOBN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2596521, 25.2335896 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 25,
+        "station": "Jumeirah Open Beach View 2",
+        "easting_DL": 492335,
+        "northing_D": 2791391,
+        "height": 10.142,
+        "lat": 25.2287046,
+        "long": 55.2572633,
+        "details": "Meraas Building",
+        "remarks": "Relocation",
+        "ID": "JOBS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.2572633, 25.2287046 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 26,
+        "station": "Deira Corniche View 1",
+        "easting_DL": 497060,
+        "northing_D": 2797030,
+        "height": 0,
+        "lat": 25.2796255,
+        "long": 55.3041436,
+        "details": "Hyatt Regency roof",
+        "remarks": "Old",
+        "ID": "DEIRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.3041436, 25.2796255 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 27,
+        "station": "Mamzar Corniche View 1",
+        "easting_DL": 500896,
+        "northing_D": 2800922,
+        "height": 16.155,
+        "lat": 25.3147617,
+        "long": 55.3422318,
+        "details": "12 m tower",
+        "remarks": "New Installation",
+        "ID": "MAMCOR1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.3422318, 25.3147617 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 28,
+        "station": "Mamzar Corniche View 2",
+        "easting_DL": 500896,
+        "northing_D": 2800922,
+        "height": 16.155,
+        "lat": 25.3147617,
+        "long": 55.3422318,
+        "details": "12 m tower",
+        "remarks": "New Installation",
+        "ID": "MAMCOR2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.3422318, 25.3147617 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 29,
+        "station": "Mamzar Corniche View 3",
+        "easting_DL": 500896,
+        "northing_D": 2800922,
+        "height": 16.155,
+        "lat": 25.3147617,
+        "long": 55.3422318,
+        "details": "12 m tower",
+        "remarks": "New Installation",
+        "ID": "MAMCOR3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.3422318, 25.3147617 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 30,
+        "station": "Mamzar Lagoon View 1",
+        "easting_DL": 501673,
+        "northing_D": 2799313,
+        "height": 15.496,
+        "lat": 25.3002364,
+        "long": 55.3499465,
+        "details": "12 m tower",
+        "remarks": "New Installation",
+        "ID": "MAMLAG1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.3499465, 25.3002364 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 31,
+        "station": "Mamzar Lagoon View 2",
+        "easting_DL": 501673,
+        "northing_D": 2799313,
+        "height": 15.498,
+        "lat": 25.3002364,
+        "long": 55.3499465,
+        "details": "12 m tower",
+        "remarks": "New Installation",
+        "ID": "MAMLAG2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.3499465, 25.3002364 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 32,
+        "station": "Mamzar Lagoon View 3",
+        "easting_DL": 501673,
+        "northing_D": 2799313,
+        "height": 15.269,
+        "lat": 25.3002364,
+        "long": 55.3499465,
+        "details": "12 m tower",
+        "remarks": "New Installation",
+        "ID": "MAMLAG3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.3499465, 25.3002364 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 33,
+        "station": "Mamzar Lagoon View 4",
+        "easting_DL": 501673,
+        "northing_D": 2799313,
+        "height": 15.504,
+        "lat": 25.3002364,
+        "long": 55.3499465,
+        "details": "12 m tower",
+        "remarks": "New Installation",
+        "ID": "MAMLAG4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.3499465, 25.3002364 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 34,
+        "station": "Mamzar Lagoon View 5",
+        "easting_DL": 501849,
+        "northing_D": 2800284,
+        "height": 15.605,
+        "lat": 25.3090015,
+        "long": 55.3516955,
+        "details": "12 m tower",
+        "remarks": "New Installation",
+        "ID": "MAMLAG5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.3516955, 25.3090015 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 35,
+        "station": "Mamzar Lagoon View 6",
+        "easting_DL": 501849,
+        "northing_D": 2800284,
+        "height": 15.597,
+        "lat": 25.3090015,
+        "long": 55.3516955,
+        "details": "12 m tower",
+        "remarks": "New Installation",
+        "ID": "MAMLAG6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.3516955, 25.3090015 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sr__no": 36,
+        "station": "Mamzar Lagoon View 7",
+        "easting_DL": 501850,
+        "northing_D": 2800283,
+        "height": 15.585,
+        "lat": 25.3090015,
+        "long": 55.3516955,
+        "details": "12 m tower",
+        "remarks": "New Installation",
+        "ID": "MAMLAG7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 55.3516955, 25.3090015 ]
+      }
+    }
+  ]
+}
