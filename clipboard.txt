@@ -5,3 +5,8 @@ ssl_ciphers "EECDH+AESGCM:ECDHE-RSA-AES128-GCM-SHA256:AES256+EECDH:ECDHE-RSA-AES
 https://dubaicoast.gis.gov.ae/databaseapi_passthrough/proxy?url=https://dubaicoast.gis.gov.ae/animation/api/download/7763de08-1cef-4e3f-8cbf-a48ff10719a3
 
 https://dubaicoast.gis.gov.ae/oceansmap/api/proxy?url=http://dubaicoastapp:3000/databaseapi_passthrough/uploads/34
+
+ghp_W
+jIvpaCQ1uyKZBO
+nLxum0E1yrCBBxy3
+olEbM
